@@ -1,0 +1,112 @@
+<!-- what is computer
+computer is machine which compute data.
+data can be.
+binary data(0/1)
+
+
+Types of computer:
+1.Digital computers
+2.Hybrid computers
+3.Analog computers
+
+1. Digital computer: They work on bit
+Data are of types text number audio video images.
+            Advantages of computer:
+            1. Accuracy
+            2. speed
+
+
+2. Analog computer
+work on physical phenomena.
+Advantages: 1. physical phenomena.
+
+Disadvantage: 1. slow , less accuracy.
+
+3. Hybrid computer
+Digital + Analog = Hybrid computer.
+
+
+ CONCEPT OF DIGITAL COMPUTER:
+ Digital computer is an electronic machine which accept data in input process it and produce information in output.
+
+ All Digital Computers are Electronics
+ HOW DIGITAL COMPUTER WORKS..........
+ ALU: Arithmetic logic unit.
+ cu: control unit.
+ CPU: central processing unit.
+
+ what is software?
+ software either control hardware or do some specific task.
+ software is a set of instruction written in specific computer understandable form and performe specific task.
+
+
+ Types of software:
+ 1. System software
+ 2.Application software
+
+
+ How to develop a software?
+  1. we have to know one particular programming language.
+  2.  Translator
+  3. Binary form.
+
+
+  Computer programming language:
+   1. language that understood by computer is called computer languages(or simply called as machine language(ml)).
+   2. computer understand 0 and 1.
+   3.  its means machine language has only two digits 0 and 1.
+
+    Types of programming language:
+    1.Low level language
+    2.High level language
+    3. medium level language
+
+😇Low level language:
+ Those languages which are close to hardware or hardware friendly.
+ It need assembler for translation.
+
+ 🥰 High level language:
+ Those language which are closed to programme or programmer friendly.
+ it need comiler  or interpreter for translation. -->
+
+Assembly language and assembler.
+Language Translator: a translator or programming language processor is a generic term that can refer to software that converts that code from one language to another.
+
+Assembler: assembler understand low level programming language.
+symbolic machine language.
+An assembler is a program that takes assembly instruction and converts them into a pattern of bits that the computer processor can use to perform its basic operation.
+
+comiler and interpreter:
+comiler: the simplest definition of a compiler is a program that translates code written in a high level language into low level code/intermediate code directly executable by the computer or another program such as a virtual machine.
+
+comiler whole program at one go.
+it converts the instruction into systematic code.
+
+Interpreter: an interpreter is a computer programm that directly executes instruction written in a programming or scripting language,without requiring them previously to have been comiled into a machine language program.
+
+interpret program line by line.
+it doesn't convert the instruction instead directly works on source language.
+
+c comiler and IDE
+IDE : integrated development environment.
+Advantages of using IDE:
+easy to maintain projects.
+easy to Debug
+take less time and effort it include various tools and feature that help to prevent mistake organise resource and provide shortcuts.
+programmers can quickly navigate to other member by using hyperlinks
+IDE organize imports and can add appropriate imorts
+it can give warning in case of any errors for mistake.
+
+TOP IDE FOR C LANGUAGE:
+
+1. VISUAL STUDIO
+2. ECLIPSE
+3. NETBEANS
+4. CODE BLOCK
+
+properties of C:
+-> high level programming having features of low level programming language.
+-> permissive language.
+-> efficiency.
+-> portability
+-> flexibility
